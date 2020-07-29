@@ -1,9 +1,5 @@
-```bash
-Hi there 👋
-Welcome to my github!
-I'm a fullstack Web Developer.
-Find out more about me [here](https://franciscogiraldo.com)
-```
+
+[Don't forget to checkout my website](https://franciscogiraldo.com)
 
 <!--
 **Fcog/Fcog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
